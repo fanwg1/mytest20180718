@@ -7,5 +7,5 @@ creat a new branch is quick and simple
 temp file unfinished (dev)
 
 ##20181008
-master addi
+master add
 master add 16:56
