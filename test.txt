@@ -1,6 +1,3 @@
 new file test.txt
-dev
-abc
-kkl
-dev23
-dev24
+dev add 20180810
+dev alter 18:02
